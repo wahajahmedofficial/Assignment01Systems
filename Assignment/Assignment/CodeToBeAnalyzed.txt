@@ -1,0 +1,15 @@
+﻿public classMyClass
+{
+
+    public MyClass()
+    {
+
+        Public int MyFunction()
+
+        {
+
+            int myint = 20;
+
+        }
+
+    }
